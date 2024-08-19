@@ -1,0 +1,15 @@
+import { Component } from '@angular/core';
+import { BaseSolidIconComponent } from '../common/base-solid-icon.component';
+import * as i0 from "@angular/core";
+export class MinusSmallSolidIconComponent extends BaseSolidIconComponent {
+    static { this.ɵfac = i0.ɵɵngDeclareFactory({ minVersion: "12.0.0", version: "18.2.0", ngImport: i0, type: MinusSmallSolidIconComponent, deps: null, target: i0.ɵɵFactoryTarget.Component }); }
+    static { this.ɵcmp = i0.ɵɵngDeclareComponent({ minVersion: "14.0.0", version: "18.2.0", type: MinusSmallSolidIconComponent, selector: "minus-small-solid-icon", usesInheritance: true, ngImport: i0, template: '<svg [attr.style]="style" [attr.class]="svgClass" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" data-slot="icon" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M5.25 12a.75.75 0 0 1 .75-.75h12a.75.75 0 0 1 0 1.5H6a.75.75 0 0 1-.75-.75Z" clip-rule="evenodd"/></svg>', isInline: true }); }
+}
+i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "18.2.0", ngImport: i0, type: MinusSmallSolidIconComponent, decorators: [{
+            type: Component,
+            args: [{
+                    selector: 'minus-small-solid-icon',
+                    template: '<svg [attr.style]="style" [attr.class]="svgClass" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" data-slot="icon" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M5.25 12a.75.75 0 0 1 .75-.75h12a.75.75 0 0 1 0 1.5H6a.75.75 0 0 1-.75-.75Z" clip-rule="evenodd"/></svg>',
+                }]
+        }] });
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiTWludXNTbWFsbFNvbGlkSWNvbi5jb21wb25lbnQuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi8uLi8uLi9wcm9qZWN0cy9saWIvY29tcG9uZW50cy9zb2xpZC9NaW51c1NtYWxsU29saWRJY29uLmNvbXBvbmVudC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxPQUFPLEVBQUUsU0FBUyxFQUFFLE1BQU0sZUFBZSxDQUFDO0FBRTFDLE9BQU8sRUFBRSxzQkFBc0IsRUFBRSxNQUFNLHFDQUFxQyxDQUFDOztBQU03RSxNQUFNLE9BQU8sNEJBQTZCLFNBQVEsc0JBQXNCOzhHQUEzRCw0QkFBNEI7a0dBQTVCLDRCQUE0QixxRkFGN0Isd1NBQXdTOzsyRkFFdlMsNEJBQTRCO2tCQUp4QyxTQUFTO21CQUFDO29CQUNULFFBQVEsRUFBRSx3QkFBd0I7b0JBQ2xDLFFBQVEsRUFBRSx3U0FBd1M7aUJBQ25UIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgQ29tcG9uZW50IH0gZnJvbSAnQGFuZ3VsYXIvY29yZSc7XG5cbmltcG9ydCB7IEJhc2VTb2xpZEljb25Db21wb25lbnQgfSBmcm9tICcuLi9jb21tb24vYmFzZS1zb2xpZC1pY29uLmNvbXBvbmVudCc7XG5cbkBDb21wb25lbnQoe1xuICBzZWxlY3RvcjogJ21pbnVzLXNtYWxsLXNvbGlkLWljb24nLFxuICB0ZW1wbGF0ZTogJzxzdmcgW2F0dHIuc3R5bGVdPVwic3R5bGVcIiBbYXR0ci5jbGFzc109XCJzdmdDbGFzc1wiIHhtbG5zPVwiaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmdcIiBmaWxsPVwiY3VycmVudENvbG9yXCIgYXJpYS1oaWRkZW49XCJ0cnVlXCIgZGF0YS1zbG90PVwiaWNvblwiIHZpZXdCb3g9XCIwIDAgMjQgMjRcIj48cGF0aCBmaWxsLXJ1bGU9XCJldmVub2RkXCIgZD1cIk01LjI1IDEyYS43NS43NSAwIDAgMSAuNzUtLjc1aDEyYS43NS43NSAwIDAgMSAwIDEuNUg2YS43NS43NSAwIDAgMS0uNzUtLjc1WlwiIGNsaXAtcnVsZT1cImV2ZW5vZGRcIi8+PC9zdmc+Jyxcbn0pXG5leHBvcnQgY2xhc3MgTWludXNTbWFsbFNvbGlkSWNvbkNvbXBvbmVudCBleHRlbmRzIEJhc2VTb2xpZEljb25Db21wb25lbnQgeyB9Il19

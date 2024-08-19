@@ -1,0 +1,15 @@
+import { Component } from '@angular/core';
+import { BaseOutlineIconComponent } from '../common/base-outline-icon.component';
+import * as i0 from "@angular/core";
+export class ArrowUturnUpOutlineIconComponent extends BaseOutlineIconComponent {
+    static { this.ɵfac = i0.ɵɵngDeclareFactory({ minVersion: "12.0.0", version: "18.2.0", ngImport: i0, type: ArrowUturnUpOutlineIconComponent, deps: null, target: i0.ɵɵFactoryTarget.Component }); }
+    static { this.ɵcmp = i0.ɵɵngDeclareComponent({ minVersion: "14.0.0", version: "18.2.0", type: ArrowUturnUpOutlineIconComponent, selector: "arrow-uturn-up-outline-icon", usesInheritance: true, ngImport: i0, template: '<svg [attr.style]="style" [attr.class]="svgClass" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true" data-slot="icon" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="m9 9 6-6m0 0 6 6m-6-6v12a6 6 0 0 1-12 0v-3"/></svg>', isInline: true }); }
+}
+i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "18.2.0", ngImport: i0, type: ArrowUturnUpOutlineIconComponent, decorators: [{
+            type: Component,
+            args: [{
+                    selector: 'arrow-uturn-up-outline-icon',
+                    template: '<svg [attr.style]="style" [attr.class]="svgClass" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true" data-slot="icon" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="m9 9 6-6m0 0 6 6m-6-6v12a6 6 0 0 1-12 0v-3"/></svg>',
+                }]
+        }] });
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiQXJyb3dVdHVyblVwT3V0bGluZUljb24uY29tcG9uZW50LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vLi4vLi4vcHJvamVjdHMvbGliL2NvbXBvbmVudHMvb3V0bGluZS9BcnJvd1V0dXJuVXBPdXRsaW5lSWNvbi5jb21wb25lbnQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsT0FBTyxFQUFFLFNBQVMsRUFBRSxNQUFNLGVBQWUsQ0FBQztBQUUxQyxPQUFPLEVBQUUsd0JBQXdCLEVBQUUsTUFBTSx1Q0FBdUMsQ0FBQzs7QUFNakYsTUFBTSxPQUFPLGdDQUFpQyxTQUFRLHdCQUF3Qjs4R0FBakUsZ0NBQWdDO2tHQUFoQyxnQ0FBZ0MsMEZBRmpDLCtTQUErUzs7MkZBRTlTLGdDQUFnQztrQkFKNUMsU0FBUzttQkFBQztvQkFDVCxRQUFRLEVBQUUsNkJBQTZCO29CQUN2QyxRQUFRLEVBQUUsK1NBQStTO2lCQUMxVCIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IENvbXBvbmVudCB9IGZyb20gJ0Bhbmd1bGFyL2NvcmUnO1xuXG5pbXBvcnQgeyBCYXNlT3V0bGluZUljb25Db21wb25lbnQgfSBmcm9tICcuLi9jb21tb24vYmFzZS1vdXRsaW5lLWljb24uY29tcG9uZW50JztcblxuQENvbXBvbmVudCh7XG4gIHNlbGVjdG9yOiAnYXJyb3ctdXR1cm4tdXAtb3V0bGluZS1pY29uJyxcbiAgdGVtcGxhdGU6ICc8c3ZnIFthdHRyLnN0eWxlXT1cInN0eWxlXCIgW2F0dHIuY2xhc3NdPVwic3ZnQ2xhc3NcIiB4bWxucz1cImh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnXCIgZmlsbD1cIm5vbmVcIiBzdHJva2U9XCJjdXJyZW50Q29sb3JcIiBzdHJva2Utd2lkdGg9XCIxLjVcIiBhcmlhLWhpZGRlbj1cInRydWVcIiBkYXRhLXNsb3Q9XCJpY29uXCIgdmlld0JveD1cIjAgMCAyNCAyNFwiPjxwYXRoIHN0cm9rZS1saW5lY2FwPVwicm91bmRcIiBzdHJva2UtbGluZWpvaW49XCJyb3VuZFwiIGQ9XCJtOSA5IDYtNm0wIDAgNiA2bS02LTZ2MTJhNiA2IDAgMCAxLTEyIDB2LTNcIi8+PC9zdmc+Jyxcbn0pXG5leHBvcnQgY2xhc3MgQXJyb3dVdHVyblVwT3V0bGluZUljb25Db21wb25lbnQgZXh0ZW5kcyBCYXNlT3V0bGluZUljb25Db21wb25lbnQgeyB9Il19

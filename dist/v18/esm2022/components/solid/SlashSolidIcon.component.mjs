@@ -1,0 +1,15 @@
+import { Component } from '@angular/core';
+import { BaseSolidIconComponent } from '../common/base-solid-icon.component';
+import * as i0 from "@angular/core";
+export class SlashSolidIconComponent extends BaseSolidIconComponent {
+    static { this.ɵfac = i0.ɵɵngDeclareFactory({ minVersion: "12.0.0", version: "18.2.0", ngImport: i0, type: SlashSolidIconComponent, deps: null, target: i0.ɵɵFactoryTarget.Component }); }
+    static { this.ɵcmp = i0.ɵɵngDeclareComponent({ minVersion: "14.0.0", version: "18.2.0", type: SlashSolidIconComponent, selector: "slash-solid-icon", usesInheritance: true, ngImport: i0, template: '<svg [attr.style]="style" [attr.class]="svgClass" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" data-slot="icon" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M15.256 3.042a.75.75 0 0 1 .449.962l-6 16.5a.75.75 0 1 1-1.41-.513l6-16.5a.75.75 0 0 1 .961-.449Z" clip-rule="evenodd"/></svg>', isInline: true }); }
+}
+i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "18.2.0", ngImport: i0, type: SlashSolidIconComponent, decorators: [{
+            type: Component,
+            args: [{
+                    selector: 'slash-solid-icon',
+                    template: '<svg [attr.style]="style" [attr.class]="svgClass" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" data-slot="icon" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M15.256 3.042a.75.75 0 0 1 .449.962l-6 16.5a.75.75 0 1 1-1.41-.513l6-16.5a.75.75 0 0 1 .961-.449Z" clip-rule="evenodd"/></svg>',
+                }]
+        }] });
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiU2xhc2hTb2xpZEljb24uY29tcG9uZW50LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vLi4vLi4vcHJvamVjdHMvbGliL2NvbXBvbmVudHMvc29saWQvU2xhc2hTb2xpZEljb24uY29tcG9uZW50LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLE9BQU8sRUFBRSxTQUFTLEVBQUUsTUFBTSxlQUFlLENBQUM7QUFFMUMsT0FBTyxFQUFFLHNCQUFzQixFQUFFLE1BQU0scUNBQXFDLENBQUM7O0FBTTdFLE1BQU0sT0FBTyx1QkFBd0IsU0FBUSxzQkFBc0I7OEdBQXRELHVCQUF1QjtrR0FBdkIsdUJBQXVCLCtFQUZ4Qiw4VEFBOFQ7OzJGQUU3VCx1QkFBdUI7a0JBSm5DLFNBQVM7bUJBQUM7b0JBQ1QsUUFBUSxFQUFFLGtCQUFrQjtvQkFDNUIsUUFBUSxFQUFFLDhUQUE4VDtpQkFDelUiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBDb21wb25lbnQgfSBmcm9tICdAYW5ndWxhci9jb3JlJztcblxuaW1wb3J0IHsgQmFzZVNvbGlkSWNvbkNvbXBvbmVudCB9IGZyb20gJy4uL2NvbW1vbi9iYXNlLXNvbGlkLWljb24uY29tcG9uZW50JztcblxuQENvbXBvbmVudCh7XG4gIHNlbGVjdG9yOiAnc2xhc2gtc29saWQtaWNvbicsXG4gIHRlbXBsYXRlOiAnPHN2ZyBbYXR0ci5zdHlsZV09XCJzdHlsZVwiIFthdHRyLmNsYXNzXT1cInN2Z0NsYXNzXCIgeG1sbnM9XCJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Z1wiIGZpbGw9XCJjdXJyZW50Q29sb3JcIiBhcmlhLWhpZGRlbj1cInRydWVcIiBkYXRhLXNsb3Q9XCJpY29uXCIgdmlld0JveD1cIjAgMCAyNCAyNFwiPjxwYXRoIGZpbGwtcnVsZT1cImV2ZW5vZGRcIiBkPVwiTTE1LjI1NiAzLjA0MmEuNzUuNzUgMCAwIDEgLjQ0OS45NjJsLTYgMTYuNWEuNzUuNzUgMCAxIDEtMS40MS0uNTEzbDYtMTYuNWEuNzUuNzUgMCAwIDEgLjk2MS0uNDQ5WlwiIGNsaXAtcnVsZT1cImV2ZW5vZGRcIi8+PC9zdmc+Jyxcbn0pXG5leHBvcnQgY2xhc3MgU2xhc2hTb2xpZEljb25Db21wb25lbnQgZXh0ZW5kcyBCYXNlU29saWRJY29uQ29tcG9uZW50IHsgfSJdfQ==

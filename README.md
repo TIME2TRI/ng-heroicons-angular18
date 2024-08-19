@@ -10,7 +10,7 @@ Live demo: [https://ng-heroicons.dimaslz.dev](https://ng-heroicons.dimaslz.dev)
 
 ## How to install in your project
 
-This package has compatibility with Angular version from 11 to 17.
+This package has compatibility with Angular version from 11 to 18.
 
 | angular version | package version ||
 |-|-|-|
@@ -69,14 +69,14 @@ You can use your style in line, css or just pass color and size.
 
 ## Development
 
-This is a monorepo to build the icon components for multiple Angular versions. To avoid conflics with compatibility from Angular 11 to 14, we are not using `workspaces`, only separated folder per Angular setup.
+This is a monorepo to build the icon components for multiple Angular versions. To avoid conflics with compatibility from Angular 11 to 18, we are not using `workspaces`, only separated folder per Angular setup.
 
 ### Landing
 
 Landing page is the common landing <https://ng-heroicons.dimaslz.dev/> which is using the last Angular version.
 
-- Build the Angular 14 lib: `$ yarn --cwd=packages/angular-v14 build lib -c production`
-- Refresh the distribution content in `dist/v14`: `$ yarn v14-copy-release`
+- Build the Angular 18 lib: `$ yarn --cwd=packages/angular-v18 build lib -c production`
+- Refresh the distribution content in `dist/v18`: `$ yarn v18-copy-release`
 - Install Landing packages: `$ yarn --cwd=landing install`
 - Run project: `$ yarn --cwd=landing start`
 - Join the page in [http://localhost:4200](http://localhost:4200)

@@ -1,15 +1,6 @@
 {
   "name": "@time2tri/ng-heroicons",
   "version": "1.18.0",
-  "author": "Dimas López <me@dimaslz.io> (dimaslz)",
-  "repository": {
-    "url": "git+https://github.com/dimaslz/ng-heroicons.git",
-    "type": "git"
-  },
-  "bugs": {
-    "url": "https://github.com/dimaslz/ng-heroicons/issues",
-    "email": "me+ng-heroicons@dimaslz.io"
-  },
   "description": "Angular library components to use Heroicons.com",
   "keywords": [
     "angular",
@@ -25,7 +16,7 @@
     "tslib": "^2.3.0"
   },
   "sideEffects": false,
-  "module": "fesm2022/dimaslz-ng-heroicons.mjs",
+  "module": "fesm2022/time2tri-ng-heroicons.mjs",
   "typings": "index.d.ts",
   "exports": {
     "./package.json": {
@@ -33,9 +24,9 @@
     },
     ".": {
       "types": "./index.d.ts",
-      "esm2022": "./esm2022/dimaslz-ng-heroicons.mjs",
-      "esm": "./esm2022/dimaslz-ng-heroicons.mjs",
-      "default": "./fesm2022/dimaslz-ng-heroicons.mjs"
+      "esm2022": "./esm2022/time2tri-ng-heroicons.mjs",
+      "esm": "./esm2022/time2tri-ng-heroicons.mjs",
+      "default": "./fesm2022/time2tri-ng-heroicons.mjs"
     }
   }
 }

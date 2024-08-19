@@ -75,6 +75,8 @@ This is a monorepo to build the icon components for multiple Angular versions. T
 
 Landing page is the common landing <https://ng-heroicons.dimaslz.dev/> which is using the last Angular version.
 
+- Generate assets: `$ yarn generate`
+- Copy assets: `$ yarn v18-copy-assets`
 - Build the Angular 18 lib: `$ yarn --cwd=packages/angular-v18 build lib -c production`
 - Refresh the distribution content in `dist/v18`: `$ yarn v18-copy-release`
 - Install Landing packages: `$ yarn --cwd=landing install`
